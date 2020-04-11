@@ -6,4 +6,4 @@
 -(Redux+NodeJS + Express) และ/หรือ (Firebase) เป็นหลัก
 -Rest API, NodeJS, Express, CSS, Authentication, Facebook SDK, ngrok, Firebase, Docker และอื่น ๆ หากเพิ่มเข้ามาใน Mini Project
 
-เเนงทางปปปฎิบัติงาน (อธิบายใน medium)
+เเนงทางปฎิบัติงาน (อธิบายใน medium)
